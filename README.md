@@ -118,6 +118,6 @@ You should be able to implement all the logic for controlling these animations u
 
 ## Additional Optional Tasks
 - Can you extend the ThirdPersonController script to support strafing with associated animations?
-- Can you create one of your own animations in Maya and include it into the state machine?
+- Can you create one of your own animations in Blender and include it into the state machine?
 -	Can you make your character play a falling animation when it falls from a height?
 -	You might notice the third person controller does not jump over obstacles! Can you fix this?
